@@ -18,9 +18,9 @@
         "bg_buffer": 2,
         "bg_color": "#F2F4CB"
     },
-    "Barcelona": {
-        "address": "Plaça Tetuan, 08010 Barcelona, Spain",
-        "custom_title": "Barcelona, Spain",
+    "Kolkata": {
+        "address": "Kolkata, West Bengal",
+        "custom_title": "Kolkata, West Bengal",
         "radius": 640,
         "style": "Auburn",
         "shape": "rectangle",
