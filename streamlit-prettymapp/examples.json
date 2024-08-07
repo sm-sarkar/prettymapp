@@ -37,9 +37,9 @@
         "bg_buffer": 6,
         "bg_color": "#F9EFDC"
     },
-    "Würzburg": {
-        "address": "Martinstraße 4, 97070 Würzburg",
-        "custom_title": "Würzburg Old Town",
+    "Durgapur": {
+        "address": "Durgapur, Burdwan",
+        "custom_title": "Durgapur",
         "radius": 1020,
         "style": "Citrus",
         "shape": "circle",
@@ -56,9 +56,9 @@
         "bg_buffer": 4,
         "bg_color": "#000000"
     },
-    "Heerhugowaard": {
-        "address": "Stad van de Zon, Heerhugowaard, Netherlands",
-        "custom_title": "",
+    "Bishnupur": {
+        "address": "Bishnupur, Bankura",
+        "custom_title": "Bishnupur",
         "radius": 650,
         "style": "Flannel",
         "shape": "rectangle",
@@ -75,9 +75,9 @@
         "bg_buffer": 0,
         "bg_color": "#EDEFDA"
     },
-    "Edinburgh": {
-        "address": "Princes St, Edinburgh, UK",
-        "custom_title": "",
+    "Sunderban": {
+        "address": "Henry Island, Sunderban",
+        "custom_title": "Henry Island",
         "radius": 850,
         "style": "Peach",
         "shape": "circle",
