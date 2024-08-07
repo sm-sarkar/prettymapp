@@ -14,9 +14,9 @@ from prettymapp.geo import GeoCodingError, get_aoi
 from prettymapp.settings import STYLES
 
 st.set_page_config(
-    page_title="prettymapp", page_icon="🖼️", initial_sidebar_state="collapsed"
+    page_title="MapWander", page_icon="🖼️", initial_sidebar_state="collapsed"
 )
-st.markdown("# Prettymapp")
+st.markdown("# MapWander")
 
 with open("./streamlit-prettymapp/examples.json", "r", encoding="utf8") as f:
     EXAMPLES = json.load(f)
